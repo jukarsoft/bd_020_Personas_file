@@ -1,0 +1,6 @@
+body {font-family: arial;}
+section {width: 800px;background-color: lightgreen;}
+form {margin: 15px; display: inline-block;}
+label {width: 150px; display: inline-block;}
+ input[type='text'] {width: 300px;}
+.error {background-color: yellow;}
